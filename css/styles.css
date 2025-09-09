@@ -163,7 +163,7 @@ margin-bottom: 8px;
 /* Education */
 
 .education {
-    margin-bottom: 219px;
+    margin-bottom: 40px;
 }
 
 .education-title {
@@ -200,6 +200,29 @@ margin-bottom: 8px;
 
 .education-period-separator {
     color: #000;
+}
+
+/* Certificates */
+
+.certificates {
+    margin-bottom: 180px;
+}
+
+.certificates-title {
+    font-weight: 700;
+    font-size: 22px;
+    color: #000;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+.certificates-link {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #005fff;
 }
 
 /* Sidebar */
